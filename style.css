@@ -60,8 +60,11 @@
     margin-left: 135px;
     font-size: 16px;
     margin-top: 20px;
-    color: #C8C9CB;
     font-family: 'Lexend', sans-serif;
+}
+
+.searchbar::placeholder {
+    color: #C8C9CB;
 }
 
 #searchicon {
@@ -589,4 +592,408 @@ a {
 .pricee3 {
     color: #060709;
     margin-left: 396px;
+}
+
+.buynow {
+    font-family: 'Lexend', sans-serif;
+    display: flex;
+    color: #060709;
+    font-weight: 400;
+    line-height: 18px;
+    height: 18px;
+    margin-left: 798px;
+    margin-top: 410px;
+}
+
+.quantity {
+    margin-left: 33px;
+}
+
+.plus {
+    margin-left: 33px;
+}
+
+.stock {
+    color: #17AF26;
+    height: 18px;
+    font-weight: 400;
+    line-height: 18px;
+    margin-left: 50px;
+    font-size: 15px;
+}
+
+.add {
+    display: flex;
+    background-color: #17AF26;
+    color: #FFFFFF;
+    margin-left: 95px;
+    padding-top: 16px;
+    padding-bottom: 16x;
+    padding-left: 32px;
+    padding-right: 32px;
+    height: 56px;
+    gap: 16px;
+    border-radius: 100px;
+    margin-top: -20px;
+}
+
+.rotline {
+    transform: rotate(90deg);
+    width: 12px;
+    height: 0px;
+    border: 1px solid #FFFFFF;
+    margin-top: 9px;
+    margin-left: 16px;
+}
+
+.addprice {
+    margin-left: 18px;
+}
+
+#check1 {
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    margin-top: 73px;
+    margin-left: 773px;
+}
+
+.xpress {
+    font-family: 'Lexend', sans-serif;
+    display: flex;
+}
+
+.order {
+    font-family: 'Lexend', sans-serif;
+    display: flex;
+    margin-left: 773px;
+    margin-top: 12px;
+}
+
+.support {
+    font-family: 'Lexend', sans-serif;
+    display: flex;
+    margin-left: 773px;
+    margin-top: 12px;
+}
+
+.xpresspara {
+    margin-left: 13px;
+    margin-top: 70px;
+}
+
+.orderpara {
+    margin-left: 13px;
+    margin-top: -3px;
+}
+
+.supportpara {
+    margin-left: 13px;
+    margin-top: -3px;
+}
+
+.sku {
+    display: flex;
+    font-family: 'Lexend', sans-serif;
+    margin-top: 70px;
+    margin-left: 744px;
+    color: #717378;
+}
+
+.db1 {
+    margin-left: 55px;
+}
+
+.unknown {
+    margin-left: 12px;
+    color: #060709;
+}
+
+.categ {
+    margin-left: 185px;
+    color: #717378;
+}
+
+.db2 {
+    margin-left: 55px;
+}
+
+.weed {
+    margin-left: 12px;
+    color: #17AF26;
+}
+
+.line {
+    position: absolute;
+    width: 640px;
+    height: 0px;
+    border: 1px solid #C8C9CB;
+    margin-top: 9.5px;
+    margin-left: -5px;
+}
+
+.reviewdesc {
+    font-family: 'Lexend', sans-serif;
+    display: flex;
+    margin-top: 42px;
+    margin-left: 790px;
+}
+
+.desc{
+    height: 24px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #46494F;
+}
+
+.revi {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 8px 20px;
+    gap: 8px;
+    width: 198.33px;
+    height: 48px;
+    background: #F2F6F4;
+    border: 1px solid #05422C;
+    border-radius: 100px;
+    flex: none;
+    order: 1;
+    flex-grow: 1;
+    margin-left: 85px;
+    margin-top: -10px;
+}
+
+.refer {
+    margin-left: 105px;
+    height: 24px;
+    font-size: 16px;
+    line-height: 24px;
+    color: #46494F;
+}
+
+.guy1 {
+    display: flex;
+    margin-top: 84px;
+    margin-left: 760px;
+}
+
+.human1 {
+    width: 46px;
+    height: 46px;
+    border-radius: 50%;
+}
+
+.name1 {
+    font-family: 'Lexend', sans-serif;
+    margin-left: 16px;
+    color: #1A1E26;
+    height: 24px;
+    margin-top: 9px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.data {
+    font-family: 'Lexend', sans-serif;
+    margin-top: 10px;
+    margin-left: 32px;
+    color: #9D9EA2;
+    height: 21px;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 21px;
+}
+
+.vikkirating {
+    position: absolute;
+    display: flex;
+    gap: 4px;
+    margin-left: 760px;
+    margin-top: 32px;
+    width: 16px;
+    height: 16px;
+}
+
+.vikcomment {
+    font-family: 'Lexend', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    width: 592px;
+    height: 72px;
+    color: #1A1E26;
+    margin-left: 760px;
+    margin-top: 64px;
+}
+
+.guy2 {
+    display: flex;
+    margin-left: 760px;
+    margin-top: 68px;
+}
+
+.human2 {
+    width: 46px;
+    height: 46px;
+    border-radius: 50%;
+}
+
+.name2 {
+    font-family: 'Lexend', sans-serif;
+    margin-left: 16px;
+    color: #1A1E26;
+    height: 24px;
+    margin-top: 9px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 21px;
+}
+
+.data2 {
+    font-family: 'Lexend', sans-serif;
+    margin-top: 10px;
+    margin-left: 32px;
+    color: #9D9EA2;
+    height: 21px;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 21px;
+}
+
+.terryrating {
+    position: absolute;
+    display: flex;
+    gap: 4px;
+    margin-left: 760px;
+    margin-top: 32px;
+    width: 16px;
+    height: 16px;
+}
+
+.tercomment {
+    font-family: 'Lexend', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    width: 592px;
+    height: 24px;
+    color: #1A1E26;
+    margin-left: 760px;
+    margin-top: 64px;
+}
+
+.showmore {
+    font-family: 'Lexend', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 21px;
+    height: 21px;
+    color: #17AF26;
+    margin-left: 1018px;
+    margin-top: 54px;
+}
+
+.addrev {
+    font-family: 'Lexend', sans-serif;
+    font-size: 18px;
+    line-height: 27px;
+    font-weight: 400;
+    height: 27px;
+    margin-left: 736px;
+    margin-top: 57.5px;
+    color: #060709;
+}
+
+.myrating {
+    font-family: 'Lexend', sans-serif;
+    display: flex;
+    margin-top: 25.5px;
+    margin-left: 736px;
+    font-size: 16px;
+    line-height: 21px;
+    font-weight: 400;
+    color: #46494F;
+}
+
+.dots {
+    margin-left: 16px;
+}
+
+#ratestar {
+    gap: 6px;
+    margin-left: 16px;
+    margin-top: -2px;
+    width: 24px;
+    height: 24px;
+    font-size: 24px;
+}
+
+.urrev {
+    font-family: 'Lexend', sans-serif;
+    margin-top: 17.5px;
+    margin-left: 736px;
+    color: #46494F;
+    font-weight: 400;
+    line-height: 21px;
+}
+
+#textareaa {
+    font-family: 'Lexend', sans-serif;
+    padding-top: 16px;
+    padding-left: 16px;
+    padding-right: 268px;
+    font-size: 16px;
+    line-height: 21px;
+    font-weight: 400;
+    margin-left: 736px;
+    border: none;
+    outline: none;
+    margin-top: 8px;
+}
+
+#textarea::placeholder {
+    color: #C8C9CB;
+}
+
+.send {
+    font-family: 'Lexend', sans-serif;
+    margin-left: 736px;
+    margin-top: 16px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 40px;
+    gap: 8px;
+    width: 137px;
+    height: 56px;
+    background: #17AF26;
+    border-radius: 100px;
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+    color: #FFFFFF;
+}
+
+.halfline {
+    position: absolute;
+    width: 1312px;
+    height: 0px;
+    border: 1px solid #C8C9CB;
+    margin-top: 64px;
+    margin-left: 10%;
+}
+
+.feature {
+    font-family: 'Lexend', sans-serif;
+    margin-left: 10%;
+    margin-top: 135px;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+    letter-spacing: -0.5px;
+    color: #1A1E26;
 }

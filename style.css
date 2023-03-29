@@ -519,3 +519,74 @@ a {
     height: 21px;
     color: #060709;
 }
+
+.purch {
+    font-family: 'Lexend', sans-serif;
+    position: absolute;
+    margin-top: 195px;
+    margin-left: 758px;
+    height: 21px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+}
+
+.buyincart {
+    position: absolute;
+    font-family: 'Lexend', sans-serif;
+    display: flex;
+    margin-top: 260px;
+    margin-left: 768px;
+}
+
+.buyingcart {
+    color: #46494F;
+}
+
+.nump {
+    margin-left: 16px;
+    color: #9D9EA2;
+}
+
+.pricee {
+    margin-left: 367px;
+    color: #060709;
+}
+
+.buyincart2 {
+    font-family: 'Lexend', sans-serif;
+    position: absolute;
+    display: flex;
+    margin-left: 768px;
+    margin-top: 300px;
+}
+
+.integrapack {
+    color: #46494F;
+    font-weight: 400;
+    line-height: 21px;
+    height: 21px;
+}
+
+.pricee2 {
+    margin-left: 394px;
+}
+
+.buyincart3 {
+    font-family: 'Lexend', sans-serif;
+    position: absolute;
+    display: flex;
+    margin-top: 340px;
+    margin-left: 768px;
+}
+
+.integrapack2 {
+    color: #46494F;
+    font-weight: 400;
+    line-height: 21px;
+}
+
+.pricee3 {
+    color: #060709;
+    margin-left: 396px;
+}

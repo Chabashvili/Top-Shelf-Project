@@ -651,6 +651,7 @@ a {
     gap: 16px;
     border-radius: 100px;
     margin-top: -20px;
+    cursor: pointer;
 }
 
 .rotline {
@@ -658,12 +659,13 @@ a {
     width: 12px;
     height: 0px;
     border: 1px solid #FFFFFF;
-    margin-top: 9px;
+    margin-top: 11px;
     margin-left: 16px;
 }
 
 .addprice {
     margin-left: 18px;
+    margin-top: 2.5px;
 }
 
 #check1 {
@@ -1201,6 +1203,10 @@ a {
     line-height: 18px;
 }
 
+.addtocart {
+    margin-top: 2.5px;
+}
+
 .addtocart2 {
     font-family: 'Lexend', sans-serif;
     display: flex;
@@ -1285,4 +1291,117 @@ a {
     font-weight: 400;
     font-size: 14px;
     line-height: 21px;
+}
+
+.saleoffer {
+    font-family: 'Lexend', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 64px;
+    gap: 32px;
+    position: absolute;
+    width: 1200px;
+    height: 458px;
+    background: #05422C;
+    border-radius: 24px;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    z-index: 1;
+    margin-top: 736px;
+    margin-left: 14%;
+}
+
+.unlock {
+    width: 700px;
+    color: white;
+    font-size: 64px;
+    font-weight: 600;
+    letter-spacing: -4px;
+    line-height: 70.4px;
+}
+
+.coupon {
+    width: 789px;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    color: #C3D2CC;
+    margin-top: 24px;
+}
+
+.couponline {
+    border: 1px solid #346654;
+    width: 1072px;
+}
+
+.emailaddress {
+    font-family: 'Lexend', sans-serif;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 24px 44px;
+    gap: 8px;
+    width: 835px;
+    height: 72px;
+    background: #05422C;
+    border: 1px solid #346654;
+    border-radius: 100px;
+    flex: none;
+    order: 0;
+    flex-grow: 1;
+    outline: none;
+    color: white;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.emailaddress::placeholder {
+    color: #648A7C;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.subscribe {
+    display: flex;
+}
+
+.revealcoupon {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 24px 44px;
+    gap: 8px;
+    width: 205px;
+    height: 72px;
+    background: #17AF26;
+    border-radius: 100px;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin-left: 32px;
+    color: white;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.footerbg {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 344px 120px 64px;
+    gap: 120px;
+    isolation: isolate;
+    width: 100%;
+    position: absolute;
+    height: 1246px;
+    left: 0px;
+    top: 3457px;
+    margin-top: 208px;
+    background: linear-gradient(180deg, #1A1E26 0%, #01100B 100%);
 }

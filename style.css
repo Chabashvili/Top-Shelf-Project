@@ -1302,7 +1302,7 @@ a {
     gap: 32px;
     position: absolute;
     width: 1200px;
-    height: 458px;
+    height: 490px;
     background: #05422C;
     border-radius: 24px;
     flex: none;
@@ -1357,6 +1357,7 @@ a {
     font-size: 16px;
     font-weight: 400;
     line-height: 24px;
+    margin-top: 10px;
 }
 
 .emailaddress::placeholder {
@@ -1388,6 +1389,7 @@ a {
     font-weight: 500;
     font-size: 16px;
     line-height: 24px;
+    margin-top: 10px;
 }
 
 .footerbg {
@@ -1645,7 +1647,7 @@ a {
     display: flex;
     color: white;
     margin-left: -531px;
-    margin-top: 176px;
+    margin-top: 200px;
 }
 
 .topshelfcopy {
@@ -1678,4 +1680,13 @@ a {
     line-height: 21px;
     font-weight: 400;
     margin-left: 32px;
+}
+
+.footerline {
+    position: absolute;
+    border: 1px solid #ccc;
+    opacity: 0.5;
+    width: 1500px;
+    margin-left: -700px;
+    margin-top: 130px;
 }

@@ -87,7 +87,7 @@
     margin-top: -46.5px;
 }
 
-svg {
+.toplogo {
     margin-left: 64px;
     margin-top: 18px;
 }
@@ -154,7 +154,7 @@ a {
 
 .choose {
     margin-top: 92px;
-    margin-left: 207px;
+    margin-left: 180px;
     gap: 32px;
     display: flex;
 }
@@ -1404,4 +1404,278 @@ a {
     top: 3457px;
     margin-top: 208px;
     background: linear-gradient(180deg, #1A1E26 0%, #01100B 100%);
+}
+
+.whitelogo {
+    margin-left: -1427px;
+    position: absolute;
+    margin-top: 1288px;
+    width: 173px;
+    height: 42px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.topshelfdesc {
+    font-family: 'Lexend', sans-serif;
+    margin-left: -1427px;
+    width: 276px;
+    height: 240px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #9D9EA2;
+    margin-top: 1354px;
+    position: absolute;
+}
+
+.centerfoot {
+    font-family: 'Lexend', sans-serif;
+    position: absolute;
+    margin-left: 769px;
+    margin-top: 1288px;
+}
+
+.quilink {
+    font-family: 'Lexend', sans-serif;
+    color: white;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.trackurorder {
+    font-family: 'Lexend', sans-serif;
+    margin-top: 24px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #9D9EA2;
+}
+
+.shopall {
+    font-family: 'Lexend', sans-serif;
+    margin-top: 16px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #9D9EA2;
+}
+
+.flower {
+    font-family: 'Lexend', sans-serif;
+    margin-top: 16px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #9D9EA2;
+}
+
+.edibles {
+    font-family: 'Lexend', sans-serif;
+    margin-top: 16px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #9D9EA2;
+}
+
+.concentrat {
+    font-family: 'Lexend', sans-serif;
+    margin-top: 16px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #9D9EA2;
+}
+
+.refund {
+    font-family: 'Lexend', sans-serif;
+    margin-top: 16px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #9D9EA2;
+}
+
+.contus {
+    font-family: 'Lexend', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+    color: white;
+    margin-top: 40px;
+}
+
+.email {
+    font-family: 'Lexend', sans-serif;
+    margin-top: 24px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #9D9EA2;
+}
+
+.mor {
+    font-family: 'Lexend', sans-serif;
+    margin-top: 40px;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    color: white;
+}
+
+.canada {
+    font-family: 'Lexend', sans-serif;
+    margin-top: 24px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #9D9EA2;
+}
+
+.brun {
+    font-family: 'Lexend', sans-serif;
+    margin-top: 16px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #9D9EA2;
+}
+
+.edw {
+    font-family: 'Lexend', sans-serif;
+    margin-top: 16px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #9D9EA2;
+}
+
+.terri {
+    font-family: 'Lexend', sans-serif;
+    margin-top: 16px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #9D9EA2;
+}
+
+.sask {
+    font-family: 'Lexend', sans-serif;
+    margin-top: 16px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #9D9EA2;
+}
+
+.cardssect {
+    margin-top: 40px;
+}
+
+.svg2 {
+    margin-left: 16px;
+}
+
+.svg3 {
+    margin-left: 16px;
+}
+
+.svg4 {
+    margin-left: 16px;
+}
+
+.footerr {
+    display: flex;
+}
+
+.sidebar {
+    font-family: 'Lexend', sans-serif;
+    margin-left: 465px;
+    margin-top: -655px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #9D9EA2;
+}
+
+.prombun {
+    margin-top: 16px;
+}
+
+.suppo {
+    margin-top: 16px;
+}
+
+.rewar {
+    margin-top: 16px;
+}
+
+.blo {
+    margin-top: 16px;
+}
+
+.faq {
+    margin-top: 16px;
+}
+
+.manitaba {
+    margin-top: 209px;
+}
+
+.quitebec {
+    margin-top: 16px;
+}
+
+.columbia {
+    margin-top: 16px;
+}
+
+.ontario {
+    margin-top: 16px;
+}
+
+.alberta {
+    margin-top: 16px;
+}
+
+.copyrght {
+    display: flex;
+    color: white;
+    margin-left: -531px;
+    margin-top: 176px;
+}
+
+.topshelfcopy {
+    font-family: 'Lexend', sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+    color: #717378;
+}
+
+.outof {
+    font-family: 'Lexend', sans-serif;
+    font-size: 14px;
+    line-height: 21px;
+    font-weight: 400;
+    margin-left: 504px;
+}
+
+.policy {
+    font-family: 'Lexend', sans-serif;
+    font-size: 14px;
+    line-height: 21px;
+    font-weight: 400;
+    margin-left: 32px;
+}
+
+.terms {
+    font-family: 'Lexend', sans-serif;
+    font-size: 14px;
+    line-height: 21px;
+    font-weight: 400;
+    margin-left: 32px;
 }
